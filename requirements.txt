@@ -1,0 +1,8 @@
+Streamlit
+PyMuPDF
+regex
+spaCy
+PyPDF2
+gensim
+pytesseract
+    
